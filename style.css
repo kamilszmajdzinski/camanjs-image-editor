@@ -7,3 +7,7 @@
 .btn-disabled{
     color: #fff !important;
 }
+
+.buttons {
+    padding-bottom: 3em;
+}
